@@ -1,0 +1,13 @@
+{
+  "name": "hotel-estrella-guest-assistant",
+  "version": "0.1.0",
+  "description": "Hotel Estrella guest assistant - walking skeleton",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.1"
+  }
+}
